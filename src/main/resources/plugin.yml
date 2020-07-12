@@ -1,0 +1,8 @@
+name: AltIP
+version: ${project.version}
+main: us.terracraft.altip.AltIP
+api-version: 1.13
+prefix: AltIP
+authors: [Koogen, Leo]
+description: One player per ip connected. Else /kick uuid
+website: http://terracraft.us
